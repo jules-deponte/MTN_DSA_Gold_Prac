@@ -72,4 +72,4 @@ api.add_resource(Submit, '/submit')
 api.add_resource(Scores, '/scores')
 
 
-app.run()
+# app.run()
